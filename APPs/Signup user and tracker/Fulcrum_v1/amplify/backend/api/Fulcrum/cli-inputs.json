@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "Fulcrum",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\AndroidProjects\\Fulcrum\\amplify\\backend\\api\\Fulcrum\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-05-24T08:22:54.928Z",
+      "keyDescription": ""
+    }
+  }
+}

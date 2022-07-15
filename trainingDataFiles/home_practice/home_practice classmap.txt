@@ -1,0 +1,4 @@
+0,Arc
+1,Close to Right Anchor
+2,Close to Left Anchor
+3,Behind Wall

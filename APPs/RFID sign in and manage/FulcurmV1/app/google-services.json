@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516614459254",
+    "project_id": "fulcrum-v1",
+    "storage_bucket": "fulcrum-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516614459254:android:433948d212f61f1967f457",
+        "android_client_info": {
+          "package_name": "com.fulcrum.oversight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516614459254-0o6iqgk378d66k4dhmqu57rg6icoqrc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYFBwcsfdGUQJueZ997oKGwpG7WWd6R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516614459254-0o6iqgk378d66k4dhmqu57rg6icoqrc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

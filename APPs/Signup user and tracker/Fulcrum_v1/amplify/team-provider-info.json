@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fulcrum-staging-200326-authRole",
+      "UnauthRoleArn": "arn:aws:iam::099738709851:role/amplify-fulcrum-staging-200326-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::099738709851:role/amplify-fulcrum-staging-200326-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fulcrum-staging-200326-deployment",
+      "UnauthRoleName": "amplify-fulcrum-staging-200326-unauthRole",
+      "StackName": "amplify-fulcrum-staging-200326",
+      "StackId": "arn:aws:cloudformation:us-west-2:099738709851:stack/amplify-fulcrum-staging-200326/69f2f040-d61c-11ec-832c-0aa42b4f271b",
+      "AmplifyAppId": "d2ysiovihx6gdh"
+    },
+    "categories": {
+      "auth": {
+        "Fulcrum": {}
+      },
+      "function": {
+        "FulcrumFetchData": {
+          "deploymentBucketName": "amplify-fulcrum-staging-200326-deployment",
+          "s3Key": "amplify-builds/FulcrumFetchData-684348784b315966796d-build.zip"
+        }
+      }
+    }
+  }
+}

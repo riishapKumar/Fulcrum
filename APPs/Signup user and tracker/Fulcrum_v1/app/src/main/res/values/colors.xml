@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray_51">#fafafa</color>
+    <color name="deep_orange_500_6c">#6cfc6b21</color>
+    <color name="white_A700_7e">#7effffff</color>
+    <color name="deep_purple_A400_0c">#0c5936fa</color>
+    <color name="gray_900">#1c1f30</color>
+    <color name="light_blue_400">#21bafc</color>
+    <color name="deep_orange_500_0c">#0cfc6b21</color>
+    <color name="light_blue_400_0c">#0c21bafc</color>
+    <color name="gray_50">#fafaff</color>
+    <color name="gray_900_19">#191c1f30</color>
+    <color name="black_900_0d">#0d000000</color>
+    <color name="gray_900_0c">#0c1c1f30</color>
+    <color name="deep_orange_500_63">#63fc6b21</color>
+    <color name="black_900">#000000</color>
+    <color name="bluegray_400">#888888</color>
+    <color name="red_A400">#fc2121</color>
+    <color name="red_A400_0c">#0cfc2121</color>
+    <color name="deep_purple_A400">#5936fa</color>
+    <color name="deep_orange_500">#fc6b21</color>
+    <color name="white_A700">#ffffff</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
